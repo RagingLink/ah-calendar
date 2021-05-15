@@ -1,0 +1,13 @@
+{
+  "name": "ah-calendar",
+  "version": "1.0.0",
+  "description": "Library that converts Albert Heijn's schedule from the program GO! to a JSON object",
+  "main": "index.js",
+  "repository": "https://github.com/RagingLink/ah-calendar.git",
+  "author": "RagingLink <nicelink.brian@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "puppeteer": "^9.1.1"
+  }
+}
